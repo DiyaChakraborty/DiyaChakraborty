@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Diya !
+# Hey there🙋‍♀️ I'm Diya !
 
-## About Me
+## About Me 💁‍♀️
 I’m diving into the world of **Web Development** with **HTML, CSS, JavaScript**, plus some fun with **Bootstrap** and **React**. I’ve also dabbled in **C++**, but right now, it’s all about the web!
 
 When I’m *not* coding, you’ll find me:
